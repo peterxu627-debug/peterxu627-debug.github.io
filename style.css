@@ -1,0 +1,8 @@
+*{box-sizing:border-box}body{margin:0;font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.7;color:#1f2a2e;background:#fbf8f2}
+a{color:#0b5c74}header{background:#0b5c74;color:#fff;padding:18px 20px}header a{color:#fff;text-decoration:none}
+.brand{font-size:28px;font-weight:bold}nav{margin-top:6px;font-family:Arial,sans-serif;font-size:17px}nav a{margin-right:18px;color:#e6f3f6}
+main{max-width:760px;margin:0 auto;padding:24px 20px 40px}h1{font-size:34px;line-height:1.25;color:#123}h2{font-size:25px;color:#0b5c74;margin-top:32px}
+.card{background:#fff;border:1px solid #e3ddd0;border-radius:10px;padding:18px 20px;margin:16px 0}.card h3{margin:0 0 6px;font-size:23px}.card p{margin:0}
+.note{background:#fff4d6;border-left:5px solid #d99a00;padding:12px 16px;font-family:Arial,sans-serif;font-size:16px;margin:18px 0}
+.meta{font-family:Arial,sans-serif;font-size:15px;color:#666}footer{border-top:1px solid #ddd;padding:20px;text-align:center;font-family:Arial,sans-serif;font-size:15px;color:#555}
+li{margin:6px 0}
